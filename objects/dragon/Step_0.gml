@@ -2,9 +2,9 @@ hsp = dir * movespeed;
 vsp += grav;
 
 //Horizontal Collision
-if (place_meeting(x+hsp, y, object1))
+if (place_meeting(x+hsp, y, obj_wall))
 {
-	while (!place_meeting(x+sign(hsp), y, object1))
+	while (!place_meeting(x+sign(hsp), y, obj_wall))
 	{
 		x += sign(hsp);
 	}
@@ -15,9 +15,9 @@ if (place_meeting(x+hsp, y, object1))
 x += hsp;
 
 //Vertical Collision
-if (place_meeting(x, y+vsp, object1))
+if (place_meeting(x, y+vsp, obj_wall))
 {
-	while (!place_meeting(x, y + sign(vsp), object1))
+	while (!place_meeting(x, y + sign(vsp), obj_wall))
 	{
 		y += sign(vsp);
 	}
