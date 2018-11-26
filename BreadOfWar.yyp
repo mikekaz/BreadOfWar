@@ -319,6 +319,14 @@
             }
         },
         {
+            "Key": "9673b00c-b3b7-48a8-ae95-24994bad7290",
+            "Value": {
+                "id": "6d48eff1-6b01-43b9-a469-781135ca9ec7",
+                "resourcePath": "objects\\obj_toast\\obj_toast.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "985f8721-7f27-485f-8f74-f029cafc7bfa",
             "Value": {
                 "id": "7c21a267-aaf0-4df5-abb8-8485889ce1c3",
