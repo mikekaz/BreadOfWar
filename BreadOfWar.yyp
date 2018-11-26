@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "2afaa69b-feb0-4837-b3b9-df89e07b4f71",
+            "Value": {
+                "id": "ee231d4f-a7f5-4fff-a17d-46aad97a5855",
+                "resourcePath": "sprites\\johnny_death\\johnny_death.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "35eccc6a-e06f-4d48-8cd9-8112bbd5f6f2",
             "Value": {
                 "id": "b2bc8959-c486-453f-9abc-f1928fbdc8d5",
@@ -295,6 +303,30 @@
             }
         },
         {
+            "Key": "a6a76be0-6f57-4877-a9ad-b2a958237a94",
+            "Value": {
+                "id": "bd95cafb-3216-4c77-9c78-443c08ede418",
+                "resourcePath": "sprites\\Johnny_jump\\Johnny_jump.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a842b8f7-2810-42be-b5e5-ee8d8ded873b",
+            "Value": {
+                "id": "6ededa9c-21c9-4ac1-bc3a-344774d96e1a",
+                "resourcePath": "sprites\\johnny_hit\\johnny_hit.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "5923c7d1-12fb-4217-b794-0f8bfdd42804",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
             "Key": "aa77a994-0257-4ffc-99f2-e781c81e46f2",
             "Value": {
                 "id": "70e341bb-a356-423f-bbdc-cc2ebe301c86",
@@ -444,6 +476,14 @@
                 "id": "a7ac209e-e8d6-4ba9-82f6-1e33108e4720",
                 "resourcePath": "sprites\\johnny_gun\\johnny_gun.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "eb2a6a2d-1970-4129-bd90-57e2dad29963",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
             }
         },
         {
