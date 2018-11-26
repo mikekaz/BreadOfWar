@@ -170,7 +170,7 @@
             "Key": "5ae2b320-e7f9-40b5-925c-368ebcba465d",
             "Value": {
                 "id": "b5105b38-259b-49a0-a487-0491abb3258e",
-                "resourcePath": "objects\\object1\\object1.yy",
+                "resourcePath": "objects\\obj_wall\\obj_wall.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -378,7 +378,7 @@
             "Key": "bd80c364-2e8c-4fac-9191-5d8ec7f91cbf",
             "Value": {
                 "id": "37bf5517-491f-4ec7-9821-a0609d9b01e0",
-                "resourcePath": "objects\\object0\\object0.yy",
+                "resourcePath": "objects\\obj_JWalk\\obj_JWalk.yy",
                 "resourceType": "GMObject"
             }
         },
