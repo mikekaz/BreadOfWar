@@ -38,9 +38,9 @@ else
 }
 
 //Horizontal Collision
-if (place_meeting(x+XAxis, y, object1))
+if (place_meeting(x+XAxis, y, obj_wall))
 {
-	while (!place_meeting(x+sign(XAxis), y, object1))
+	while (!place_meeting(x+sign(XAxis), y, obj_wall))
 	{
 		x += sign(XAxis);
 	}
@@ -48,9 +48,9 @@ if (place_meeting(x+XAxis, y, object1))
 }
 
 //Vertical Collision
-if (place_meeting(x, y+YAxis, object1))
+if (place_meeting(x, y+YAxis, obj_wall))
 {
-	while (!place_meeting(x, y + sign(YAxis), object1))
+	while (!place_meeting(x, y + sign(YAxis), obj_wall))
 	{
 		y += sign(YAxis);
 	}
