@@ -15,5 +15,5 @@ if (place_meeting(x, y+YAxis, object1))
 	{
 		y += sign(YAxis);
 	}
-	YAxis = 0;
+	YAxis = 1;
 }
