@@ -410,7 +410,7 @@
             "Key": "bd80c364-2e8c-4fac-9191-5d8ec7f91cbf",
             "Value": {
                 "id": "37bf5517-491f-4ec7-9821-a0609d9b01e0",
-                "resourcePath": "objects\\obj_JWalk\\obj_JWalk.yy",
+                "resourcePath": "objects\\obj_Walk\\obj_Walk.yy",
                 "resourceType": "GMObject"
             }
         },

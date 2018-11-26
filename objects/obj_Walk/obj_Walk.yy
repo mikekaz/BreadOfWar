@@ -2,7 +2,7 @@
     "id": "bd80c364-2e8c-4fac-9191-5d8ec7f91cbf",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_JWalk",
+    "name": "obj_Walk",
     "eventList": [
         {
             "id": "2728ff84-f198-4c96-9626-83def7ed3d74",
