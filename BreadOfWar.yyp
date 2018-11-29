@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "20502071-5642-4153-b401-22d63ba2735f",
+            "Value": {
+                "id": "c0cc1fdc-9470-48c7-8b30-87aa54e66f53",
+                "resourcePath": "tilesets\\tile_floor\\tile_floor.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "25dfc132-1a04-475e-b17d-99b08c21000c",
             "Value": {
                 "id": "42f91a1c-26bf-4fbe-a597-e7be22588da2",
@@ -199,10 +207,18 @@
             }
         },
         {
+            "Key": "5ab79230-46f0-49fb-b93e-205e6ef2558f",
+            "Value": {
+                "id": "c2177b00-f8ef-4488-ab31-931f9b444489",
+                "resourcePath": "rooms\\level1\\level1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "5ae2b320-e7f9-40b5-925c-368ebcba465d",
             "Value": {
                 "id": "b5105b38-259b-49a0-a487-0491abb3258e",
-                "resourcePath": "objects\\obj_wall\\obj_wall.yy",
+                "resourcePath": "objects\\obj_floor\\obj_floor.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -247,6 +263,14 @@
             }
         },
         {
+            "Key": "6e74a52a-9a3d-45e7-8228-0ab955719dc2",
+            "Value": {
+                "id": "1e12815e-2d20-402d-bedd-9f05016276c2",
+                "resourcePath": "sprites\\spr_wall\\spr_wall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "774e97f3-d017-4082-a9c4-b5c06e01d005",
             "Value": {
                 "id": "58f1e065-13ed-4313-be58-c86368af628e",
@@ -276,6 +300,14 @@
                 "id": "e5431d28-9cb0-47a6-ac82-14c636eedbd5",
                 "resourcePath": "objects\\obj_breadknife\\obj_breadknife.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8a8142fd-8cb4-466f-9a10-d6865fd8932d",
+            "Value": {
+                "id": "1052592f-476c-4b87-b228-7d29d1d3fc70",
+                "resourcePath": "tilesets\\tile_wall\\tile_wall.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
