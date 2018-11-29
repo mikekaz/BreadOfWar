@@ -2,7 +2,7 @@
     "id": "32a2706f-701a-4617-a3dd-966726b1ce04",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_flag0",
+    "name": "obj_flag",
     "eventList": [
         
     ],

@@ -130,7 +130,7 @@
             "Key": "32a2706f-701a-4617-a3dd-966726b1ce04",
             "Value": {
                 "id": "ed4dc50c-7299-4e9b-8e7d-a6240480945e",
-                "resourcePath": "objects\\obj_flag0\\obj_flag0.yy",
+                "resourcePath": "objects\\obj_flag\\obj_flag.yy",
                 "resourceType": "GMObject"
             }
         },
