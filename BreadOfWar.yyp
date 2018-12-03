@@ -154,7 +154,7 @@
             "Key": "3db1416a-f0f1-4358-bb79-25d82c903ecc",
             "Value": {
                 "id": "af50dfa2-720a-4b9a-9520-705b82c6cb1b",
-                "resourcePath": "objects\\obj_johnny_gun\\obj_johnny_gun.yy",
+                "resourcePath": "objects\\object6\\object6.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -290,7 +290,7 @@
             "Key": "7a7f927e-84db-4b17-90ca-c382b0db4b1d",
             "Value": {
                 "id": "5846faac-6da0-41c5-b0b2-1a359ed7dd12",
-                "resourcePath": "sprites\\spr_johnny_sword\\spr_johnny_sword.yy",
+                "resourcePath": "sprites\\sprite6\\sprite6.yy",
                 "resourceType": "GMSprite"
             }
         },
