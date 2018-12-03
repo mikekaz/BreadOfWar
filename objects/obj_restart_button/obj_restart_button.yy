@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_restart_button",
     "eventList": [
-        
+        {
+            "id": "2066f398-92af-4e04-9da2-2e493652bea1",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "30763bd4-22d3-472c-bdee-601f54df9a27"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
