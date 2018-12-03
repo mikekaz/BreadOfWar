@@ -47,14 +47,6 @@
             }
         },
         {
-            "Key": "048dfbaf-1c2c-4acd-b212-1a5b7bc02f2b",
-            "Value": {
-                "id": "a2efccd2-a6a1-4b80-8a47-d10d635cc0b1",
-                "resourcePath": "sprites\\sprite27\\sprite27.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "04a737cb-6f95-4768-af18-6d19f571f9f3",
             "Value": {
                 "id": "2f3f2345-6c5a-42c7-a896-ce2129dfb899",
@@ -162,7 +154,7 @@
             "Key": "3db1416a-f0f1-4358-bb79-25d82c903ecc",
             "Value": {
                 "id": "af50dfa2-720a-4b9a-9520-705b82c6cb1b",
-                "resourcePath": "objects\\object6\\object6.yy",
+                "resourcePath": "objects\\obj_johnny_gun\\obj_johnny_gun.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -298,7 +290,7 @@
             "Key": "7a7f927e-84db-4b17-90ca-c382b0db4b1d",
             "Value": {
                 "id": "5846faac-6da0-41c5-b0b2-1a359ed7dd12",
-                "resourcePath": "sprites\\sprite6\\sprite6.yy",
+                "resourcePath": "sprites\\spr_johnny_sword\\spr_johnny_sword.yy",
                 "resourceType": "GMSprite"
             }
         },
