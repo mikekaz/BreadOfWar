@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_quit_button",
     "eventList": [
-        
+        {
+            "id": "a2744314-4710-404d-bdd3-a3f3412c5a3e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "3ae01be7-33f0-421e-8372-db5c4f2436d9"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
