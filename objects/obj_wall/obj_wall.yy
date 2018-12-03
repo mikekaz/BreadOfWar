@@ -2,7 +2,7 @@
     "id": "5ae2b320-e7f9-40b5-925c-368ebcba465d",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_floor",
+    "name": "obj_wall",
     "eventList": [
         
     ],

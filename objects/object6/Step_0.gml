@@ -38,6 +38,7 @@ else
 }
 
 //Horizontal Collision
+
 if (place_meeting(x+XAxis, y, obj_wall))
 {
 	while (!place_meeting(x+sign(XAxis), y, obj_wall))
@@ -46,6 +47,9 @@ if (place_meeting(x+XAxis, y, obj_wall))
 	}
 	XAxis = 0;
 }
+
+
+
 
 //Vertical Collision
 if (place_meeting(x, y+YAxis, obj_wall))
