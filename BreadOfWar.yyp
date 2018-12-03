@@ -226,7 +226,7 @@
             "Key": "5ae2b320-e7f9-40b5-925c-368ebcba465d",
             "Value": {
                 "id": "b5105b38-259b-49a0-a487-0491abb3258e",
-                "resourcePath": "objects\\obj_floor\\obj_floor.yy",
+                "resourcePath": "objects\\obj_wall\\obj_wall.yy",
                 "resourceType": "GMObject"
             }
         },
