@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "3ab0f769-1cb0-482c-abc5-1a8e3b249894",
+            "Value": {
+                "id": "a5146e42-ee2f-4ef7-915b-40ecf8ed7773",
+                "resourcePath": "objects\\obj_start_background\\obj_start_background.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3ae01be7-33f0-421e-8372-db5c4f2436d9",
             "Value": {
                 "id": "74ce0ba4-00ea-4e79-9628-d2c7f6f9eb3d",
@@ -154,16 +162,8 @@
             "Key": "3db1416a-f0f1-4358-bb79-25d82c903ecc",
             "Value": {
                 "id": "af50dfa2-720a-4b9a-9520-705b82c6cb1b",
-                "resourcePath": "objects\\obj_johnny_gun\\obj_johnny_gun.yy",
+                "resourcePath": "objects\\object6\\object6.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "4675d049-ac6d-46e4-8b2f-d650aa981bc5",
-            "Value": {
-                "id": "0974a18e-5993-448c-bba0-f54910d97398",
-                "resourcePath": "sprites\\tile_set2\\tile_set2.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -212,6 +212,14 @@
                 "id": "2a9281f8-2bf5-4f76-b403-d843716eddad",
                 "resourcePath": "sprites\\spr_tile1\\spr_tile1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "54650942-c48c-4d00-a8c0-ba4df9b65195",
+            "Value": {
+                "id": "b3a27982-4456-4306-9e68-903f98389910",
+                "resourcePath": "rooms\\start\\start.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -290,7 +298,7 @@
             "Key": "7a7f927e-84db-4b17-90ca-c382b0db4b1d",
             "Value": {
                 "id": "5846faac-6da0-41c5-b0b2-1a359ed7dd12",
-                "resourcePath": "sprites\\spr_johnny_sword\\spr_johnny_sword.yy",
+                "resourcePath": "sprites\\sprite6\\sprite6.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -571,6 +579,14 @@
             "Value": {
                 "id": "beb4a1f1-c9a4-43dc-ac8d-e141abbde1d1",
                 "resourcePath": "sprites\\spr_waterSplash\\spr_waterSplash.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "eee0a428-a7f6-431c-b9d3-9f23df78e861",
+            "Value": {
+                "id": "6c8d6b62-e42e-4c34-a732-d401b8afe209",
+                "resourcePath": "sprites\\spr_start_background\\spr_start_background.yy",
                 "resourceType": "GMSprite"
             }
         },
