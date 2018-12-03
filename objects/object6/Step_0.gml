@@ -38,8 +38,12 @@ else
 }
 
 //Horizontal Collision
+<<<<<<< HEAD
 
 if (place_meeting(x+XAxis, y, obj_wall))
+=======
+if (place_meeting (x+XAxis, y, obj_wall))
+>>>>>>> 5a0c46056130d3532839e46bca861fe0a3765753
 {
 	while (!place_meeting(x+sign(XAxis), y, obj_wall))
 	{
