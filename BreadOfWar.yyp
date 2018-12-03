@@ -146,7 +146,7 @@
             "Key": "3ae01be7-33f0-421e-8372-db5c4f2436d9",
             "Value": {
                 "id": "74ce0ba4-00ea-4e79-9628-d2c7f6f9eb3d",
-                "resourcePath": "objects\\obj_quit_button\\obj_quit_button.yy",
+                "resourcePath": "objects\\obj_quit_button_start\\obj_quit_button_start.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -180,6 +180,14 @@
                 "id": "d3c667ff-7218-430b-8915-2a0a9c490de6",
                 "resourcePath": "views\\4d5106ad-e292-4a4a-ba6d-66d139ae2965.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4d8631be-ecdd-43c9-af19-73b3c5ea750f",
+            "Value": {
+                "id": "8bc8e564-49f2-4591-b09c-1d0b6649c665",
+                "resourcePath": "sprites\\spr_start_background\\spr_start_background.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -252,14 +260,6 @@
                 "id": "1feccab8-e430-4019-b532-38611cb6dcb2",
                 "resourcePath": "sprites\\dragon_walk\\dragon_walk.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "6a1f0b74-e790-466e-a8cf-bbb8187037d9",
-            "Value": {
-                "id": "df680ff0-d8e6-456c-b60c-aea7ebc9b180",
-                "resourcePath": "tilesets\\tileset2\\tileset2.yy",
-                "resourceType": "GMTileSet"
             }
         },
         {
@@ -447,11 +447,11 @@
             }
         },
         {
-            "Key": "b9f1878d-687a-4a2f-bda4-4898a13375ba",
+            "Key": "b34da458-565d-4e9f-8b6e-265835063eb6",
             "Value": {
-                "id": "d9e6fe2e-8b24-42ff-82bf-dedc94c797af",
-                "resourcePath": "sprites\\sprite24\\sprite24.yy",
-                "resourceType": "GMSprite"
+                "id": "f397a591-1abd-4dbd-8903-13f8d8d6ac9c",
+                "resourcePath": "rooms\\start\\start.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -556,6 +556,14 @@
                 "id": "beb4a1f1-c9a4-43dc-ac8d-e141abbde1d1",
                 "resourcePath": "sprites\\spr_waterSplash\\spr_waterSplash.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f01a0464-b2d7-4c6e-949b-4c118b191966",
+            "Value": {
+                "id": "05d4915b-1b79-43da-b175-6f6ff56ec4ba",
+                "resourcePath": "objects\\obj_start_background\\obj_start_background.yy",
+                "resourceType": "GMObject"
             }
         },
         {
