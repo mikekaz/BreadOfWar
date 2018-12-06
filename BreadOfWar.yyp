@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "25718091-13a0-4221-8b27-1a5b00da7b95",
+            "Value": {
+                "id": "6aa8b3d7-c58f-4b65-af80-c810d282a7a8",
+                "resourcePath": "tilesets\\tile_dungeon\\tile_dungeon.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "25dfc132-1a04-475e-b17d-99b08c21000c",
             "Value": {
                 "id": "42f91a1c-26bf-4fbe-a597-e7be22588da2",
@@ -351,6 +359,30 @@
             }
         },
         {
+            "Key": "920482b1-11dc-4a4b-80d7-a7cea1f7b3df",
+            "Value": {
+                "id": "83a80210-9a87-45cf-a0c3-e39790660f8b",
+                "resourcePath": "tilesets\\tileset3\\tileset3.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "9374e5b5-5d37-41a7-bdc2-d094bd705a9e",
+            "Value": {
+                "id": "cc394e4a-3cc4-46cb-a22b-5e7b5d4236d6",
+                "resourcePath": "sprites\\spr_dungeon\\spr_dungeon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "93ddec74-e63f-4167-99a0-65ae73b3a50f",
+            "Value": {
+                "id": "e5a4cfec-74c2-4e21-84bb-d98fbada0348",
+                "resourcePath": "objects\\obj_torch\\obj_torch.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9504db5e-8187-431e-9d80-6d771d4abced",
             "Value": {
                 "id": "74497cf8-7f25-45d7-916a-d078e32ed05c",
@@ -532,6 +564,14 @@
                 "id": "4fc2a60f-2936-456e-bddd-0c0693b5a1d3",
                 "resourcePath": "objects\\obj_watersplash\\obj_watersplash.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "db55696a-0142-4815-9f76-784a58a2cd4f",
+            "Value": {
+                "id": "64e36241-6bc2-4bdc-99db-eb5ff102e9db",
+                "resourcePath": "sprites\\spr_torch\\spr_torch.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
