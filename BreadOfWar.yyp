@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "4d7407c3-c903-49dc-aa96-4b08b16e445d",
+            "Value": {
+                "id": "d8e184ce-e98d-43f9-a88b-dfba1ef2418d",
+                "resourcePath": "views\\4d7407c3-c903-49dc-aa96-4b08b16e445d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "51221aa1-c1f4-4489-98e5-c389b29251e9",
             "Value": {
                 "id": "061fbaf1-6118-429f-84b9-d6701e000560",
@@ -292,6 +300,14 @@
                 "id": "1feccab8-e430-4019-b532-38611cb6dcb2",
                 "resourcePath": "sprites\\dragon_walk\\dragon_walk.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "647eefab-f2f6-4c15-89a7-e8cede84a4fe",
+            "Value": {
+                "id": "e76a3b11-bf33-4d9c-839f-fc7659ff35be",
+                "resourcePath": "tilesets\\tile_water\\tile_water.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
