@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "0851b613-8ae1-4b6b-8792-5593dd701ab9",
+            "Value": {
+                "id": "b3da0140-6c2a-4ac5-95d7-4851baa4dd57",
+                "resourcePath": "tilesets\\tile_D\\tile_D.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "0c04c374-b2b9-4729-b3f7-85f8748e3d8a",
             "Value": {
                 "id": "03102647-10fb-40a4-b010-5655a48bb171",
@@ -195,6 +203,14 @@
             "Value": {
                 "id": "d3c667ff-7218-430b-8915-2a0a9c490de6",
                 "resourcePath": "views\\4d5106ad-e292-4a4a-ba6d-66d139ae2965.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4d7407c3-c903-49dc-aa96-4b08b16e445d",
+            "Value": {
+                "id": "d8e184ce-e98d-43f9-a88b-dfba1ef2418d",
+                "resourcePath": "views\\4d7407c3-c903-49dc-aa96-4b08b16e445d.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -332,6 +348,14 @@
                 "id": "3c4c7c7f-ce28-4db7-bf64-f1c753142e5c",
                 "resourcePath": "sprites\\spr_pit\\spr_pit.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "83a1ec70-26d9-431c-ad3b-c8c584ad43b6",
+            "Value": {
+                "id": "3ea1fb20-d95a-42c1-ab23-72c36bbec9e4",
+                "resourcePath": "tilesets\\tileset2\\tileset2.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -651,6 +675,14 @@
             "Value": {
                 "id": "9fb4b364-0b40-46a7-82d7-6703c9910380",
                 "resourcePath": "sprites\\dragon_idle\\dragon_idle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fcdfabae-7842-4196-b3ab-2b9b98996c64",
+            "Value": {
+                "id": "623a11b1-1bc1-4b4a-8fd8-5c3da750399e",
+                "resourcePath": "sprites\\spr_dungeon\\spr_dungeon.yy",
                 "resourceType": "GMSprite"
             }
         }
