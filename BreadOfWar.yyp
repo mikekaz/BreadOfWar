@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "7cc58e4c-2bab-40a9-b99f-692286dd245b",
+            "Value": {
+                "id": "d9e973b3-aaaf-4474-9135-b80caa03013e",
+                "resourcePath": "sprites\\spr_tilerobotpack\\spr_tilerobotpack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7f4dec7d-fa22-48fb-b806-2df9dccaa4e7",
             "Value": {
                 "id": "1dcab3b2-c6c5-4d87-9397-6ceaa4d83f04",
@@ -338,7 +346,7 @@
             "Key": "83a1ec70-26d9-431c-ad3b-c8c584ad43b6",
             "Value": {
                 "id": "3ea1fb20-d95a-42c1-ab23-72c36bbec9e4",
-                "resourcePath": "tilesets\\tileset2\\tileset2.yy",
+                "resourcePath": "tilesets\\tile_robotpack\\tile_robotpack.yy",
                 "resourceType": "GMTileSet"
             }
         },
