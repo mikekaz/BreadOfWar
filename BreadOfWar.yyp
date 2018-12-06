@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "21ac2f60-3411-4914-a9b6-28436d9f8ae6",
+            "Value": {
+                "id": "75a19a40-8f13-4e60-ba44-dc27567a638c",
+                "resourcePath": "views\\21ac2f60-3411-4914-a9b6-28436d9f8ae6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "23c8b814-ba9d-4d3e-a7a3-4eaa1c5822d6",
             "Value": {
                 "id": "c1f80e75-7f0e-48c4-a13a-78da050e3b54",
@@ -468,6 +476,14 @@
                 "id": "bd95cafb-3216-4c77-9c78-443c08ede418",
                 "resourcePath": "sprites\\Johnny_jump\\Johnny_jump.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a775f7db-4b03-475e-a8bb-0ed7b47704e7",
+            "Value": {
+                "id": "064afc78-1888-44a1-b8b6-d529f261acd8",
+                "resourcePath": "views\\a775f7db-4b03-475e-a8bb-0ed7b47704e7.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
