@@ -215,14 +215,6 @@
             }
         },
         {
-            "Key": "54650942-c48c-4d00-a8c0-ba4df9b65195",
-            "Value": {
-                "id": "b3a27982-4456-4306-9e68-903f98389910",
-                "resourcePath": "rooms\\start\\start.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "5ab79230-46f0-49fb-b93e-205e6ef2558f",
             "Value": {
                 "id": "c2177b00-f8ef-4488-ab31-931f9b444489",
@@ -527,6 +519,14 @@
             }
         },
         {
+            "Key": "ce62fa3b-e375-4ced-b05a-30513b749c78",
+            "Value": {
+                "id": "9abe6daf-223d-4372-a15a-4cc8e9bef81a",
+                "resourcePath": "sprites\\spr_heart\\spr_heart.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d3d6573f-e13e-40dd-9247-16a652b74968",
             "Value": {
                 "id": "d667277c-d3bc-46d7-8703-22c904673049",
@@ -604,6 +604,14 @@
                 "id": "a7ac209e-e8d6-4ba9-82f6-1e33108e4720",
                 "resourcePath": "sprites\\johnny_gun\\johnny_gun.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f27c6383-23c7-4714-b41b-ece30d9a083f",
+            "Value": {
+                "id": "c3bae8c9-adf7-48a5-b88d-a52b50154f78",
+                "resourcePath": "objects\\obj_hearts\\obj_hearts.yy",
+                "resourceType": "GMObject"
             }
         },
         {
