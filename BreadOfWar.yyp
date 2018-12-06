@@ -183,10 +183,10 @@
             }
         },
         {
-            "Key": "44710393-2e0d-485f-b6cf-a8b968985891",
+            "Key": "47900362-8694-4897-b035-bfb12f7aaed5",
             "Value": {
-                "id": "cb132a5b-7071-4e53-8c98-b12e68315b61",
-                "resourcePath": "views\\44710393-2e0d-485f-b6cf-a8b968985891.yy",
+                "id": "bb3b1c9b-4ced-4e4d-bf75-d81a701a3172",
+                "resourcePath": "views\\985f8721-7f27-485f-8f74-f029cafc7bfa-room.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -249,7 +249,7 @@
         {
             "Key": "54650942-c48c-4d00-a8c0-ba4df9b65195",
             "Value": {
-                "id": "1e4bc0c9-864f-4cea-bffc-0abd02c0a3ec",
+                "id": "b39e2df4-7369-4cb7-8d46-624e1e6923be",
                 "resourcePath": "rooms\\start\\start.yy",
                 "resourceType": "GMRoom"
             }
@@ -580,14 +580,6 @@
                 "id": "d667277c-d3bc-46d7-8703-22c904673049",
                 "resourcePath": "sprites\\johnny_walk\\johnny_walk.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "d72e129c-36a5-4a33-89e1-7322ca0d6047",
-            "Value": {
-                "id": "7f584da5-8007-49a5-b0a5-a6b1c269b9c1",
-                "resourcePath": "views\\d72e129c-36a5-4a33-89e1-7322ca0d6047.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
