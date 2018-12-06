@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "647eefab-f2f6-4c15-89a7-e8cede84a4fe",
+            "Value": {
+                "id": "e76a3b11-bf33-4d9c-839f-fc7659ff35be",
+                "resourcePath": "tilesets\\tile_water\\tile_water.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "6e03c572-f441-4d95-8aeb-681e479b0c8b",
             "Value": {
                 "id": "26bf5d01-0d3c-49dc-8eb6-a35cec5f2142",
