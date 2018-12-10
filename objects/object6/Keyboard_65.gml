@@ -1,1 +1,1 @@
-hspeed = -7;
+hspeed = -5;

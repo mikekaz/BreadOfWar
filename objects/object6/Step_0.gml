@@ -13,22 +13,6 @@ cooldown += -1;
 
 
 
-
-
-//Switch Weapons
-switch(weapon)
-{
-	case 0:
-		sprite_index = sprite6;
-	break;
-	
-	case 1:
-		sprite_index = johnny_gun;
-	break;
-}
-
-
-
 //Horizontal Collision
 if (place_meeting(x+XAxis, y, obj_wall))
 {

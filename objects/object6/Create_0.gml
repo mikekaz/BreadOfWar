@@ -1,8 +1,8 @@
 weapon = 0;
 
-gravity = 0.9;
+gravity = 0.7;
 
-friction = 0.3;
+friction = 1;
 
 jump = 0;
 
