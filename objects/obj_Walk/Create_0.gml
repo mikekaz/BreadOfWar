@@ -1,5 +1,14 @@
-gravity = 0.9;
+weapon = 0;
 
-friction = 0.2;
+gravity = 0.7;
 
-hh = 0;
+friction = 0.5;
+
+jump = 0;
+
+cooldown = 0;
+
+direction = 180
+
+XAxis = 0;
+YAxis = 0;
