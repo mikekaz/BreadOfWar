@@ -1,4 +1,4 @@
-x += (xTo - x)/25;
+ x += (xTo - x)/25;
 y += (yTo - y)/25;
 
 if (follow != noone)
