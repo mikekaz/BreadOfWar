@@ -10,4 +10,4 @@ view_camera[0] = camera;
 
 follow = oPlayer;
 xto =x;
-yto = y;
+yto =y;             

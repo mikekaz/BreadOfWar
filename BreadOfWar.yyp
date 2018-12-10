@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "46639d7c-8888-4e96-989b-921e8ba19d1c",
+            "Value": {
+                "id": "143875c2-e031-4d9e-a172-a741351baa40",
+                "resourcePath": "sounds\\sn_watershoot\\sn_watershoot.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "47900362-8694-4897-b035-bfb12f7aaed5",
             "Value": {
                 "id": "bb3b1c9b-4ced-4e4d-bf75-d81a701a3172",
