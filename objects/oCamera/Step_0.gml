@@ -1,9 +1,9 @@
 x += (xTo - x)/25;
-y+= (yTo - y)/25;
+y += (yTo - y)/25;
 
-if (follow != Noone)
+if (follow != noone)
 {
-    xTo = follow.x;	
+    xTo = follow.x;	         
 	yTo = follow.y;
 }
 

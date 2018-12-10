@@ -6068,18 +6068,6 @@
             "name": "animation_2"
         },
         {
-            "id": "d7bcf5f5-6a90-4325-9db1-ea9a37fcba9b",
-            "modelName": "GMTileAnimation",
-            "mvc": "1.0",
-            "frames": [
-                1233,
-                1234,
-                1234,
-                1233
-            ],
-            "name": "animation_3"
-        },
-        {
             "id": "b91b997c-3dc9-472d-9f62-30831c1d565b",
             "modelName": "GMTileAnimation",
             "mvc": "1.0",
@@ -6090,6 +6078,18 @@
                 0
             ],
             "name": "animation_4"
+        },
+        {
+            "id": "d7bcf5f5-6a90-4325-9db1-ea9a37fcba9b",
+            "modelName": "GMTileAnimation",
+            "mvc": "1.0",
+            "frames": [
+                1233,
+                1234,
+                1234,
+                1233
+            ],
+            "name": "animation_3"
         }
     ],
     "tile_animation_speed": 15,
