@@ -1,1 +1,1 @@
-audio_play_sound(sn_start_screen,10,true);
+audio_play_sound(sn_start_screen,6,true);
