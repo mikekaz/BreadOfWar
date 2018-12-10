@@ -567,6 +567,14 @@
             }
         },
         {
+            "Key": "b2d7a91a-f7fc-4f71-9683-0b837bbc2433",
+            "Value": {
+                "id": "28162827-523c-421f-97f8-fe8f49b595e4",
+                "resourcePath": "sounds\\sn_lvl1\\sn_lvl1.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "ba68b48e-6061-44d5-acba-08cb0b5b81b6",
             "Value": {
                 "id": "5efa7fd4-38f2-4d5a-8105-c474eb674396",
