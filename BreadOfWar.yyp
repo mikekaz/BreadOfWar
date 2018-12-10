@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "11086a38-e411-42b9-b435-db06f93b6c2c",
+            "Value": {
+                "id": "50824f19-12ea-43b2-8f4e-887a8a347242",
+                "resourcePath": "sprites\\spr_tank\\spr_tank.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1489d889-601e-418c-bd0c-60d88e10c2fb",
             "Value": {
                 "id": "213fa823-7379-4dd7-b886-547a077d0cfa",
@@ -215,14 +223,6 @@
             }
         },
         {
-            "Key": "4af6854c-0d90-4f6f-9f1f-06d673f3b099",
-            "Value": {
-                "id": "574fce8d-e812-4ca1-bf7e-4cc01e41b64f",
-                "resourcePath": "sprites\\dragon_death\\dragon_death.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "4c577394-07ed-4f8f-b991-274caf642734",
             "Value": {
                 "id": "b7d2705b-3262-4bb9-88f5-981f8c1a7553",
@@ -316,14 +316,6 @@
                 "id": "92ec69a9-6986-4443-96fc-95d966ac291c",
                 "resourcePath": "views\\5fb22809-4180-4ab4-a4da-ef038e0ab706.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "605cf2af-1d04-4afa-925d-7a23702cea42",
-            "Value": {
-                "id": "1feccab8-e430-4019-b532-38611cb6dcb2",
-                "resourcePath": "sprites\\dragon_walk\\dragon_walk.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -455,14 +447,6 @@
             }
         },
         {
-            "Key": "9504db5e-8187-431e-9d80-6d771d4abced",
-            "Value": {
-                "id": "74497cf8-7f25-45d7-916a-d078e32ed05c",
-                "resourcePath": "sprites\\dragon_flight\\dragon_flight.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "95b23d17-0c5b-4826-acba-352a18709c18",
             "Value": {
                 "id": "6d74791c-716d-48a0-be96-68daeb35d70d",
@@ -572,14 +556,6 @@
                 "id": "5efa7fd4-38f2-4d5a-8105-c474eb674396",
                 "resourcePath": "views\\ba68b48e-6061-44d5-acba-08cb0b5b81b6.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "bbb4233d-c9ea-43e1-8344-121e7eff9398",
-            "Value": {
-                "id": "4ecb645a-6744-44fd-b626-49470a44d1e7",
-                "resourcePath": "sprites\\dragon_attack\\dragon_attack.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -748,14 +724,6 @@
                 "id": "4c0054a8-d74f-4779-9a00-fb0235915490",
                 "resourcePath": "objects\\obj_resume_button\\obj_resume_button.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "f9c70fa8-7c22-4e2c-a32e-568e2ed2a61b",
-            "Value": {
-                "id": "9fb4b364-0b40-46a7-82d7-6703c9910380",
-                "resourcePath": "sprites\\dragon_idle\\dragon_idle.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
