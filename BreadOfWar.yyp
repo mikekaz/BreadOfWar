@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "46639d7c-8888-4e96-989b-921e8ba19d1c",
+            "Value": {
+                "id": "143875c2-e031-4d9e-a172-a741351baa40",
+                "resourcePath": "sounds\\sn_watershoot\\sn_watershoot.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "47900362-8694-4897-b035-bfb12f7aaed5",
             "Value": {
                 "id": "bb3b1c9b-4ced-4e4d-bf75-d81a701a3172",
@@ -500,14 +508,6 @@
                 "id": "bd95cafb-3216-4c77-9c78-443c08ede418",
                 "resourcePath": "sprites\\Johnny_jump\\Johnny_jump.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "a775f7db-4b03-475e-a8bb-0ed7b47704e7",
-            "Value": {
-                "id": "064afc78-1888-44a1-b8b6-d529f261acd8",
-                "resourcePath": "views\\a775f7db-4b03-475e-a8bb-0ed7b47704e7.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
