@@ -10,8 +10,8 @@
     "bbox_left": 23,
     "bbox_right": 44,
     "bbox_top": 18,
-    "bboxmode": 0,
-    "colkind": 1,
+    "bboxmode": 2,
+    "colkind": 0,
     "coltolerance": 0,
     "edgeFiltering": false,
     "frames": [
