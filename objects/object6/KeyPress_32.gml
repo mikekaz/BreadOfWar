@@ -1,7 +1,7 @@
 
 if(jump == 0)
 {
-	vspeed = -16;
+	vspeed = -20;
 
 	jump = 1;
 }
