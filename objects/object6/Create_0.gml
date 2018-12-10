@@ -13,7 +13,3 @@ direction = 180
 XAxis = 0;
 YAxis = 0;
 
-hspd = 0;
-vspd = 0;
-
-lkey = 0
