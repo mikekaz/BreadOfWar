@@ -1,3 +1,4 @@
+
 //Shooting
 {
 	if(cooldown <= 0)
@@ -73,4 +74,9 @@ if (xprevious < x)
 else if (xprevious > x)
 {
 	image_xscale = -3;
+}
+
+if place_free(x, y+1)
+{
+	sprite_index = Johnny_jump
 }
