@@ -1,5 +1,5 @@
-if (instance_exists(obj_player))   {
-	move_towards_point(obj_player.x, obj_player.y, spd);
+if (instance_exists(object6))   {
+	move_towards_point(object6.x, object6.y, spd);
 }
 
 image_angle=direction;
