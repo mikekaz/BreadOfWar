@@ -49,13 +49,5 @@ if (place_meeting(x, y+YAxis, obj_wall))
 	YAxis = 0;
 }
 
-//Flip Object
-if (x < mouse_x)
-{
-	image_xscale = 3;
-}
-else
-{
-	image_xscale = -3;
-}
+
 
