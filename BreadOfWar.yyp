@@ -327,6 +327,14 @@
             }
         },
         {
+            "Key": "694bb9d0-76bf-468d-afcd-498e05925dc2",
+            "Value": {
+                "id": "d0ec56e3-fdac-48ba-82ac-c519a8c0d0aa",
+                "resourcePath": "tilesets\\tile_floor2\\tile_floor2.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "6e03c572-f441-4d95-8aeb-681e479b0c8b",
             "Value": {
                 "id": "26bf5d01-0d3c-49dc-8eb6-a35cec5f2142",
@@ -359,6 +367,14 @@
             }
         },
         {
+            "Key": "7cc58e4c-2bab-40a9-b99f-692286dd245b",
+            "Value": {
+                "id": "d9e973b3-aaaf-4474-9135-b80caa03013e",
+                "resourcePath": "sprites\\spr_tilerobotpack\\spr_tilerobotpack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7f4dec7d-fa22-48fb-b806-2df9dccaa4e7",
             "Value": {
                 "id": "1dcab3b2-c6c5-4d87-9397-6ceaa4d83f04",
@@ -386,7 +402,7 @@
             "Key": "83a1ec70-26d9-431c-ad3b-c8c584ad43b6",
             "Value": {
                 "id": "3ea1fb20-d95a-42c1-ab23-72c36bbec9e4",
-                "resourcePath": "tilesets\\tileset2\\tileset2.yy",
+                "resourcePath": "tilesets\\tile_robotpack\\tile_robotpack.yy",
                 "resourceType": "GMTileSet"
             }
         },
@@ -572,6 +588,14 @@
                 "id": "bf21e1c5-2bd1-4a05-9c6e-68d4ad6046d4",
                 "resourcePath": "views\\c9a77624-f807-4581-a0cd-6d42a5de74db.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cae3ff7a-2e09-4a58-b383-70a1e70b5acc",
+            "Value": {
+                "id": "75e70e67-594b-4b19-b993-afd8f3b1a2ad",
+                "resourcePath": "sprites\\spr_tile3\\spr_tile3.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
