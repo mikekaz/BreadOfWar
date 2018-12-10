@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_toast",
     "eventList": [
-        
+        {
+            "id": "87dd2feb-5d1f-4ff1-87a1-1bab88f019f5",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "9673b00c-b3b7-48a8-ae95-24994bad7290"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
