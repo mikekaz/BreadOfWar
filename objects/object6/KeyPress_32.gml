@@ -1,6 +1,9 @@
+sprite_index = Johnny_jump
+
 if(jump == 0)
 {
-	vspeed = -10;
+	vspeed = -15;
 
 	jump = 1;
 }
+
