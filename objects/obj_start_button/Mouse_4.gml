@@ -1,5 +1,6 @@
-/// @DnDAction : YoYo Games.Rooms.Go_To_Room
-/// @DnDVersion : 1
-/// @DnDHash : 13DC7239
-/// @DnDArgument : "room" "level1"
 room_goto(level1);
+
+
+//sound
+audio_stop_sound(sn_start_screen);
+audio_play_sound(sn_lvl1,6,true);
