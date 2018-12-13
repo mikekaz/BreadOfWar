@@ -135,14 +135,6 @@
             }
         },
         {
-            "Key": "21ac2f60-3411-4914-a9b6-28436d9f8ae6",
-            "Value": {
-                "id": "75a19a40-8f13-4e60-ba44-dc27567a638c",
-                "resourcePath": "views\\21ac2f60-3411-4914-a9b6-28436d9f8ae6.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "23c8b814-ba9d-4d3e-a7a3-4eaa1c5822d6",
             "Value": {
                 "id": "c1f80e75-7f0e-48c4-a13a-78da050e3b54",
@@ -207,6 +199,14 @@
             }
         },
         {
+            "Key": "3d571a24-f003-4006-8802-6cb280b764d1",
+            "Value": {
+                "id": "6ee3afc8-ea14-4867-8a09-e697eb124ada",
+                "resourcePath": "objects\\obj_pit\\obj_pit.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3db1416a-f0f1-4358-bb79-25d82c903ecc",
             "Value": {
                 "id": "af50dfa2-720a-4b9a-9520-705b82c6cb1b",
@@ -220,6 +220,14 @@
                 "id": "143875c2-e031-4d9e-a172-a741351baa40",
                 "resourcePath": "sounds\\sn_watershoot\\sn_watershoot.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "46fc8f48-eb98-4005-8651-ef596fda09a8",
+            "Value": {
+                "id": "b3ac6158-0f54-42ae-89ed-d62f5c7e410b",
+                "resourcePath": "scripts\\ShootingScript\\ShootingScript.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -439,6 +447,14 @@
             }
         },
         {
+            "Key": "85371753-cce5-4010-b3c1-7dfe621514b6",
+            "Value": {
+                "id": "5b05e7af-0344-45f6-8b4b-f3f59fc993a1",
+                "resourcePath": "objects\\obj_spawner\\obj_spawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8a8142fd-8cb4-466f-9a10-d6865fd8932d",
             "Value": {
                 "id": "1052592f-476c-4b87-b228-7d29d1d3fc70",
@@ -604,6 +620,22 @@
                 "id": "0e2d2553-4b25-4a3f-a2c0-2776ebb93cbb",
                 "resourcePath": "views\\c134f321-34fd-4035-bad2-4ca326d89add.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c20ab2c0-8701-4394-ad0e-409a4a461fe5",
+            "Value": {
+                "id": "dacb2aea-e71c-4c57-9d26-d769f3c05b70",
+                "resourcePath": "views\\c20ab2c0-8701-4394-ad0e-409a4a461fe5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c8ee0b55-3e1a-4549-90f9-3a9adb579692",
+            "Value": {
+                "id": "08c40c12-c7c3-4dba-a8c5-be6c7198497a",
+                "resourcePath": "tilesets\\tileset7\\tileset7.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -806,7 +838,8 @@
         "e7f67656-62b5-4ef7-93db-540095501826",
         "04a737cb-6f95-4768-af18-6d19f571f9f3",
         "ab8f86c4-5e4b-4e4d-9473-c1abccbac288",
-        "58eb9565-9a48-43fe-b53c-e0b955dc05c8"
+        "58eb9565-9a48-43fe-b53c-e0b955dc05c8",
+        "46fc8f48-eb98-4005-8651-ef596fda09a8"
     ],
     "tutorial": ""
 }
