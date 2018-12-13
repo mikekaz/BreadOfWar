@@ -1,16 +1,4 @@
 
-//Shooting
-{
-	if(cooldown <= 0)
-	if(mouse_check_button(mb_left))
-	{
-		instance_create_layer(x, y, "BulletLayer", obj_bullet);
-	
-		cooldown = 8;
-	}
-}
-
-cooldown += -1;
 
 
 
@@ -35,14 +23,16 @@ if (place_meeting(x, y+YAxis, obj_wall))
 }
 
 //Flip Object
-if (x < mouse_x)
+
+if keyboard_check(ord("D"))
 {
 	image_xscale = 3;
 }
 else
-{
+
+if keyboard_check(ord("A"))
+{	
 	image_xscale = -3;
 }
 
-
-
+//Shooting
