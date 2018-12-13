@@ -4,16 +4,7 @@
     "mvc": "1.0",
     "name": "obj_watersplash",
     "eventList": [
-        {
-            "id": "7c6839ae-93c7-4a6c-9cc9-efe7f6503359",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "d98a2cf6-8d40-4cf7-b867-1807a466f348"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
