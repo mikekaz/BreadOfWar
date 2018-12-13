@@ -4,7 +4,6 @@ if keyboard_check(ord("A"))
     direction = 180;
 	image_xscale = -0.5;
 	
-	
 }
 if keyboard_check(ord("D"))
 {

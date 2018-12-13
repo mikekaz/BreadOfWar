@@ -17,5 +17,3 @@ playerHP = 25;
 
 //Movement
 
-facing = 1;
-
