@@ -1,7 +1,3 @@
-
-
-
-
 //Horizontal Collision
 if (place_meeting(x+XAxis, y, obj_wall))
 {
@@ -36,3 +32,11 @@ if keyboard_check(ord("A"))
 }
 
 //Shooting
+
+	if(mouse_check_button(mb_left)) && (cooldown<1)
+{
+	instance_create_layer(x, y, "BulletLayer", obj_bullet);
+	cooldown = 8;
+
+}
+	cooldown = cooldown - 1 
