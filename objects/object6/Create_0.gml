@@ -1,3 +1,5 @@
+weapon = 0;
+
 gravity = 1.5;
 
 friction = .5;
@@ -11,3 +13,4 @@ direction = 180
 XAxis = 0;
 YAxis = 0;
 
+playerHP = 20;

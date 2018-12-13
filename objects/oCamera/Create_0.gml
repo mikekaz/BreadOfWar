@@ -9,5 +9,5 @@ camera_set_proj_mat(camera,pm);
 view_camera[0] = camera;
 
 follow = object6;
-xTo = x;
-yTo = y;           
+xto = x;
+yto = y;           
