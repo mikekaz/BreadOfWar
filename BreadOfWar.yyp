@@ -773,6 +773,14 @@
                 "resourcePath": "sprites\\spr_dungeon\\spr_dungeon.yy",
                 "resourceType": "GMSprite"
             }
+        },
+        {
+            "Key": "fdad5749-53fe-4571-b00f-e103dff081cf",
+            "Value": {
+                "id": "e421e73a-2939-493f-b191-659bf55a18cc",
+                "resourcePath": "views\\fdad5749-53fe-4571-b00f-e103dff081cf.yy",
+                "resourceType": "GMFolder"
+            }
         }
     ],
     "script_order": [
