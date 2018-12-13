@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "03296da7-3394-49f6-a891-c0ef5d6e0459",
+            "Value": {
+                "id": "02984ec9-41d5-436f-b332-be9ca899fd7e",
+                "resourcePath": "views\\03296da7-3394-49f6-a891-c0ef5d6e0459.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "040e46dc-9c65-47f6-be52-5a472ba71a1a",
             "Value": {
                 "id": "a066981d-826e-46a4-a0c1-338827407baf",
@@ -207,6 +215,14 @@
             }
         },
         {
+            "Key": "3c73cff9-a3e3-4f6f-a635-39302775691c",
+            "Value": {
+                "id": "a6e0cbbc-2635-4fae-a00a-6b337b3e93ec",
+                "resourcePath": "rooms\\room4\\room4.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "3d571a24-f003-4006-8802-6cb280b764d1",
             "Value": {
                 "id": "6ee3afc8-ea14-4867-8a09-e697eb124ada",
@@ -228,14 +244,6 @@
                 "id": "143875c2-e031-4d9e-a172-a741351baa40",
                 "resourcePath": "sounds\\sn_watershoot\\sn_watershoot.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "46fc8f48-eb98-4005-8651-ef596fda09a8",
-            "Value": {
-                "id": "b3ac6158-0f54-42ae-89ed-d62f5c7e410b",
-                "resourcePath": "scripts\\ShootingScript\\ShootingScript.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -452,14 +460,6 @@
                 "id": "3ea1fb20-d95a-42c1-ab23-72c36bbec9e4",
                 "resourcePath": "tilesets\\tile_robotpack\\tile_robotpack.yy",
                 "resourceType": "GMTileSet"
-            }
-        },
-        {
-            "Key": "85371753-cce5-4010-b3c1-7dfe621514b6",
-            "Value": {
-                "id": "5b05e7af-0344-45f6-8b4b-f3f59fc993a1",
-                "resourcePath": "objects\\obj_spawner\\obj_spawner.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -822,8 +822,7 @@
         "e7f67656-62b5-4ef7-93db-540095501826",
         "04a737cb-6f95-4768-af18-6d19f571f9f3",
         "ab8f86c4-5e4b-4e4d-9473-c1abccbac288",
-        "58eb9565-9a48-43fe-b53c-e0b955dc05c8",
-        "46fc8f48-eb98-4005-8651-ef596fda09a8"
+        "58eb9565-9a48-43fe-b53c-e0b955dc05c8"
     ],
     "tutorial": ""
 }
