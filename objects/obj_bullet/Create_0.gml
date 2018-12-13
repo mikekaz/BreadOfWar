@@ -2,13 +2,14 @@ image_xscale =  0.5;
 image_yscale = 0.5;
 
 bulletPower = 2;
-bulletSpeed = 10;
+bulletSpeed = 13;
 
 audio_play_sound(sn_watershoot,5,false);
 
-direction = point_direction(x, y, mouse_x, mouse_y);
-direction = direction;
+direction = image_angle;
 speed = bulletSpeed;
 image_angle  = direction;
 
 
+
+motion_set(direction, speed)
