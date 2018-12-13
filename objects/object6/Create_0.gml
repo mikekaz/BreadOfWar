@@ -13,3 +13,4 @@ direction = 180
 XAxis = 0;
 YAxis = 0;
 
+playerHP = 20;
