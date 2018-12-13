@@ -1,4 +1,4 @@
-weapon = 0;
+newBullet = 0;
 
 gravity = 1.5;
 
