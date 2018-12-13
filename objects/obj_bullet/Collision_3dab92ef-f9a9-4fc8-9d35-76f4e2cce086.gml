@@ -1,4 +1,4 @@
-with(obj_toast) {
+with(obj_tank) {
 	obj_toast.hp -= bulletPower;
 	
 }
