@@ -1,5 +1,5 @@
 with(obj_toast) {
-	obj_toast.hp -= 20;
+	obj_toast.hp -= bulletPower;
 	
 }
 instance_destroy();
