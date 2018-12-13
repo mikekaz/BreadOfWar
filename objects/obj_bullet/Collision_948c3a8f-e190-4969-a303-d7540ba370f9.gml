@@ -1,5 +1,5 @@
-with(obj_toast) {
-	obj_toast.toastHP -= 20;
+with(other) {
+	toastHP -= 10;
 	
 }
 instance_destroy();

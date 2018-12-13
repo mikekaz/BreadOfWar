@@ -4,7 +4,7 @@ if (instance_exists(object6))   {
 
 image_angle=direction;
 
-if (toastHP<=0) {
+if (toastHP <= 0) {
 	instance_destroy();
 	
 }
