@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "21ac2f60-3411-4914-a9b6-28436d9f8ae6",
+            "Value": {
+                "id": "75a19a40-8f13-4e60-ba44-dc27567a638c",
+                "resourcePath": "views\\21ac2f60-3411-4914-a9b6-28436d9f8ae6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "23c8b814-ba9d-4d3e-a7a3-4eaa1c5822d6",
             "Value": {
                 "id": "c1f80e75-7f0e-48c4-a13a-78da050e3b54",
@@ -199,6 +207,14 @@
             }
         },
         {
+            "Key": "3c73cff9-a3e3-4f6f-a635-39302775691c",
+            "Value": {
+                "id": "a6e0cbbc-2635-4fae-a00a-6b337b3e93ec",
+                "resourcePath": "rooms\\room4\\room4.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "3d571a24-f003-4006-8802-6cb280b764d1",
             "Value": {
                 "id": "6ee3afc8-ea14-4867-8a09-e697eb124ada",
@@ -220,14 +236,6 @@
                 "id": "143875c2-e031-4d9e-a172-a741351baa40",
                 "resourcePath": "sounds\\sn_watershoot\\sn_watershoot.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "46fc8f48-eb98-4005-8651-ef596fda09a8",
-            "Value": {
-                "id": "b3ac6158-0f54-42ae-89ed-d62f5c7e410b",
-                "resourcePath": "scripts\\ShootingScript\\ShootingScript.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -447,14 +455,6 @@
             }
         },
         {
-            "Key": "85371753-cce5-4010-b3c1-7dfe621514b6",
-            "Value": {
-                "id": "5b05e7af-0344-45f6-8b4b-f3f59fc993a1",
-                "resourcePath": "objects\\obj_spawner\\obj_spawner.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "8a8142fd-8cb4-466f-9a10-d6865fd8932d",
             "Value": {
                 "id": "1052592f-476c-4b87-b228-7d29d1d3fc70",
@@ -623,14 +623,6 @@
             }
         },
         {
-            "Key": "c20ab2c0-8701-4394-ad0e-409a4a461fe5",
-            "Value": {
-                "id": "dacb2aea-e71c-4c57-9d26-d769f3c05b70",
-                "resourcePath": "views\\c20ab2c0-8701-4394-ad0e-409a4a461fe5.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "c8ee0b55-3e1a-4549-90f9-3a9adb579692",
             "Value": {
                 "id": "08c40c12-c7c3-4dba-a8c5-be6c7198497a",
@@ -719,14 +711,6 @@
             }
         },
         {
-            "Key": "e50fde30-fdd6-425e-9ca1-146271f8d71c",
-            "Value": {
-                "id": "4eda2e9d-bb44-46a4-9056-cb459244b63f",
-                "resourcePath": "sprites\\spr_waterSplash1\\spr_waterSplash1.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "e7f67656-62b5-4ef7-93db-540095501826",
             "Value": {
                 "id": "03b92b3f-3b80-4dcf-877a-8333fdbab9ca",
@@ -756,14 +740,6 @@
                 "id": "6c8d6b62-e42e-4c34-a732-d401b8afe209",
                 "resourcePath": "sprites\\spr_start_background\\spr_start_background.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "f0cff998-fd12-4d5b-bcca-ede057c545ef",
-            "Value": {
-                "id": "a384f250-75ae-4859-969a-5cf127b3aac2",
-                "resourcePath": "objects\\obj_watersplash1\\obj_watersplash1.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -838,8 +814,7 @@
         "e7f67656-62b5-4ef7-93db-540095501826",
         "04a737cb-6f95-4768-af18-6d19f571f9f3",
         "ab8f86c4-5e4b-4e4d-9473-c1abccbac288",
-        "58eb9565-9a48-43fe-b53c-e0b955dc05c8",
-        "46fc8f48-eb98-4005-8651-ef596fda09a8"
+        "58eb9565-9a48-43fe-b53c-e0b955dc05c8"
     ],
     "tutorial": ""
 }

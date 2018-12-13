@@ -1,3 +1,5 @@
+weapon = 0;
+
 gravity = 1.5;
 
 friction = .5;
