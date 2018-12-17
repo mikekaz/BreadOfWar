@@ -31,8 +31,9 @@ if (place_meeting(x, y+YAxis, obj_wall))
 	{
 		y += sign(YAxis);
 	}
-	YAxis = 0;
+	YAxis = 1;
 }
+
 
 //Flip Object
 if keyboard_check(ord("D"))

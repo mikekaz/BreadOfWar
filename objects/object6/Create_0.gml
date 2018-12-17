@@ -15,5 +15,9 @@ YAxis = 0;
 
 playerHP = 25;
 
-//Movement
+vsp = 0;
+hsp = 0;
+
+
+scr_platform_solid_check = 0;
 
