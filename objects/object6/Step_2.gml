@@ -9,4 +9,6 @@ last_hp = playerHP;
 
 if (place_meeting(x, y, obj_wall)) instance_destroy();
 
-
+if ( playerHP = 0) 
+{ game_restart()
+}
