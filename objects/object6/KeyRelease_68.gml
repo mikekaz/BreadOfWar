@@ -1,0 +1,1 @@
+sprite_index = johnny_gun
