@@ -13,7 +13,13 @@ direction = 180
 XAxis = 0;
 YAxis = 0;
 
-playerHP = 25;
+playerHP = 5;
 
-//Movement
+dir = 0;
+hsp = 0;
+
+max_hp = 5;
+i_frames = false;
+last_hp = playerHP
+
 

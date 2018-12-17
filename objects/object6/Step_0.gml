@@ -31,8 +31,9 @@ if (place_meeting(x, y+YAxis, obj_wall))
 	{
 		y += sign(YAxis);
 	}
-	YAxis = 0;
+	YAxis = 1;
 }
+
 
 //Flip Object
 if keyboard_check(ord("D"))
@@ -46,10 +47,10 @@ if keyboard_check(ord("A"))
 	image_xscale = -3;
 }
 
-//Death
-if (playerHP <= 0) {
-	instance_change(johnny_death, true);
 
-}
 
-//bullet direction
+//save the direction player was moving (necessary for at least one enemy)
+if (abs(hsp) > 0) {dir = sign(hsp);}
+
+
+
