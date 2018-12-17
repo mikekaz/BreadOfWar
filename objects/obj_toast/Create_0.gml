@@ -1,5 +1,4 @@
-image_xscale = -0.5;
-image_yscale = -0.5;
+direction = 180
 
 
 //maxHp=20;
@@ -11,14 +10,9 @@ gravity = 1.5;
 
 friction = .5;
 
-//movement variables
-vsp = 0;
-hsp = 0;
-falling_speed = 10;
-walking_speed = 1;
-dir = choose(-1, 1);
-grav = .5;
 
-//other variables
-state = "WALKING";
-target = object6;
+XAxis = 0;
+YAxis = 0;
+
+image_xscale = 0.5
+image_yscale = 0.5;
