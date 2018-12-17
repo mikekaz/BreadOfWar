@@ -1,4 +1,4 @@
-if (global.pause) exit;
+
 //Shooting
 {
 	if(cooldown <= 0)
@@ -11,6 +11,7 @@ if (global.pause) exit;
 }
 
 cooldown += -1;
+
 
 
 //Horizontal Collision
@@ -30,12 +31,8 @@ if (place_meeting(x, y+YAxis, obj_wall))
 	{
 		y += sign(YAxis);
 	}
-	YAxis = 0;
+	YAxis = 1;
 }
-
-
-
-
 
 
 //Flip Object
@@ -52,6 +49,8 @@ if keyboard_check(ord("A"))
 
 
 
-//bullet direction
+//save the direction player was moving (necessary for at least one enemy)
+if (abs(hsp) > 0) {dir = sign(hsp);}
+
 
 
