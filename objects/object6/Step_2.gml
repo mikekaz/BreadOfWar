@@ -12,3 +12,4 @@ last_hp = playerHP;
 if ( playerHP = 0) 
 { game_restart()
 }
+

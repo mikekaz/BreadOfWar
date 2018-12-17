@@ -12,5 +12,3 @@ if (tankHP <= 0) {
 }
 
 
-
-hspeed = 4;
