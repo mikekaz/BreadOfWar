@@ -8,7 +8,7 @@ audio_play_sound(sn_watershoot,5,false);
 
 direction = image_angle;
 speed = bulletSpeed;
-image_angle  = direction;
+image_angle  = direction ;
 
 
 if keyboard_check_direct(ord("A"))
