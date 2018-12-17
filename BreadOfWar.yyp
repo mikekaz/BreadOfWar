@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "37459a77-70c2-4096-80ba-875cb0508ce8",
+            "Value": {
+                "id": "d2d0b06f-aa1f-441d-8fba-4e20f5361ab2",
+                "resourcePath": "sprites\\spr_control_background\\spr_control_background.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3ab0f769-1cb0-482c-abc5-1a8e3b249894",
             "Value": {
                 "id": "a5146e42-ee2f-4ef7-915b-40ecf8ed7773",
@@ -463,6 +471,14 @@
             }
         },
         {
+            "Key": "877fdfcd-fb05-464c-b99d-a92caf06042b",
+            "Value": {
+                "id": "d81e0209-67c0-4eeb-b476-3ab5a62dc771",
+                "resourcePath": "rooms\\rm_contrls\\rm_contrls.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "8a8142fd-8cb4-466f-9a10-d6865fd8932d",
             "Value": {
                 "id": "1052592f-476c-4b87-b228-7d29d1d3fc70",
@@ -492,6 +508,14 @@
                 "id": "c6e18c25-6676-4606-97dc-4004c234b85a",
                 "resourcePath": "views\\8ccaa1bd-f947-4521-b9f9-5c423f89a2f5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8da57f9d-66a8-49d4-8439-db41fd97a1ac",
+            "Value": {
+                "id": "73989a6b-f2b5-404a-a609-0057b9ccc2ed",
+                "resourcePath": "objects\\obj_inviswall\\obj_inviswall.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -580,6 +604,14 @@
                 "id": "70e341bb-a356-423f-bbdc-cc2ebe301c86",
                 "resourcePath": "views\\aa77a994-0257-4ffc-99f2-e781c81e46f2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "aaa27623-5ab7-4a84-92ef-30dc8bf17937",
+            "Value": {
+                "id": "fecd6c31-fbdf-4b51-8661-ff158b76f3c2",
+                "resourcePath": "objects\\obj_control_background\\obj_control_background.yy",
+                "resourceType": "GMObject"
             }
         },
         {
