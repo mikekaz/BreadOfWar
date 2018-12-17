@@ -46,8 +46,10 @@ if keyboard_check(ord("A"))
 	image_xscale = -3;
 }
 
+//Death
+if (playerHP <= 0) {
+	instance_change(johnny_death, true);
 
+}
 
 //bullet direction
-
-
