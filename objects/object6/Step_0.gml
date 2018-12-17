@@ -1,3 +1,4 @@
+
 //Shooting
 {
 	if(cooldown <= 0)
