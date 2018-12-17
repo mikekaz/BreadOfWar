@@ -13,7 +13,7 @@ direction = 180
 XAxis = 0;
 YAxis = 0;
 
-playerHP = 25;
+playerHP = 5;
 
 dir = 0;
 hsp = 0;
