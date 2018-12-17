@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_pit",
     "eventList": [
-        
+        {
+            "id": "f161ac71-9f3a-4161-846e-bf607aecb1bd",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "3db1416a-f0f1-4358-bb79-25d82c903ecc",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "3d571a24-f003-4006-8802-6cb280b764d1"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
