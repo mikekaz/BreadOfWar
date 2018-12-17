@@ -1,4 +1,4 @@
-
+if (global.pause) exit;
 //Shooting
 {
 	if(cooldown <= 0)
@@ -11,7 +11,6 @@
 }
 
 cooldown += -1;
-
 
 
 //Horizontal Collision
@@ -33,6 +32,11 @@ if (place_meeting(x, y+YAxis, obj_wall))
 	}
 	YAxis = 0;
 }
+
+
+
+
+
 
 //Flip Object
 if keyboard_check(ord("D"))
