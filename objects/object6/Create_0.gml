@@ -18,7 +18,7 @@ playerHP = 5;
 dir = 0;
 hsp = 0;
 
-max_hp = 25;
+max_hp = 5;
 i_frames = false;
 last_hp = playerHP
 
