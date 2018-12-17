@@ -49,6 +49,8 @@ if keyboard_check(ord("A"))
 
 
 
-//bullet direction
+//save the direction player was moving (necessary for at least one enemy)
+if (abs(hsp) > 0) {dir = sign(hsp);}
+
 
 

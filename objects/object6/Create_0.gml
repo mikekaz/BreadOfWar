@@ -15,9 +15,11 @@ YAxis = 0;
 
 playerHP = 25;
 
-vsp = 0;
+dir = 0;
 hsp = 0;
 
+max_hp = 25;
+i_frames = false;
+last_hp = playerHP
 
-scr_platform_solid_check = 0;
 
