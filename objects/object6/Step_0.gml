@@ -1,8 +1,8 @@
-
+if (global.pause) exit;
 //Shooting
 {
 	if(cooldown <= 0)
-	if(mouse_check_button(mb_left))
+	if(keyboard_check_pressed(vk_enter))
 	{
 		instance_create_layer(x, y, "BulletLayer", obj_bullet);
 	
@@ -35,14 +35,19 @@ if (place_meeting(x, y+YAxis, obj_wall))
 }
 
 //Flip Object
-if (x < mouse_x)
+if keyboard_check(ord("D"))
 {
 	image_xscale = 3;
 }
 else
+if keyboard_check(ord("A"))
 {
+	
 	image_xscale = -3;
 }
 
+
+
+//bullet direction
 
 

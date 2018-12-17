@@ -1,3 +1,5 @@
+if (global.pause) exit;
+
 //Shooting
 {
 	if(cooldown <= 0)
