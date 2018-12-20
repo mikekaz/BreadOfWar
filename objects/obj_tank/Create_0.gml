@@ -1,4 +1,4 @@
-tankHP = 150
+tankHP = 210
 spd = 4
 
 gravity = 1.5;
