@@ -1,0 +1,1 @@
+draw_healthbar(50, 50, 250, 125, playerHP, c_black, c_red, c_lime, 0, false, false)

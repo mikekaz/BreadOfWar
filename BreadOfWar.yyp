@@ -415,6 +415,14 @@
             }
         },
         {
+            "Key": "75bc8409-a12c-4dfb-b169-b97a4e471fb3",
+            "Value": {
+                "id": "8a1d569d-1346-4e7c-acc6-dbbe06e9e844",
+                "resourcePath": "objects\\obj_inviscunt\\obj_inviscunt.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "774e97f3-d017-4082-a9c4-b5c06e01d005",
             "Value": {
                 "id": "58f1e065-13ed-4313-be58-c86368af628e",

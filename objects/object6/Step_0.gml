@@ -1,3 +1,4 @@
+if (global.pause) exit;
 
 //Shooting
 {
@@ -51,6 +52,8 @@ if keyboard_check(ord("A"))
 
 //save the direction player was moving (necessary for at least one enemy)
 if (abs(hsp) > 0) {dir = sign(hsp);}
+
+
 
 
 
