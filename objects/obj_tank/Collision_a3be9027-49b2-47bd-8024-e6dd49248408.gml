@@ -1,5 +1,8 @@
 with(other) {
-	playerHP -=1;
+	playerHP -=50;
 	
 }
-instance_destroy();
+instance_destroy(object6)
+{ 
+	game_restart()
+}
