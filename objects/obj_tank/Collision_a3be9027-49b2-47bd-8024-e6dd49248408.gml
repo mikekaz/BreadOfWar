@@ -1,5 +1,5 @@
 with(other) {
-	playerHP -=50;
+	playerHP -=10;
 	
 }
 instance_destroy(object6)
