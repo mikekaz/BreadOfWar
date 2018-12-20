@@ -6,3 +6,5 @@ var xoffset = 24;
 for (var i=0; i<5; i++) {
 	draw_sprite(hp, 0, xstart+(xoffset*i), ystart);
 }
+
+
